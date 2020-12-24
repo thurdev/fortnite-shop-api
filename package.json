@@ -1,12 +1,12 @@
 {
   "name": "fortnite-shop-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "thurdev",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
