@@ -16,7 +16,7 @@ $ npm i fortnite-shop-api
 ### Example usage
 
 ```js
-var { getDailyShop, getFeaturedShop } =  require('./index');
+var { getDailyShop, getFeaturedShop } =  require('fortnite-shop-api');
 
 getDailyShop().then((response) => {
     console.log(response);
